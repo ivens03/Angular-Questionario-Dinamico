@@ -1,0 +1,111 @@
+{
+    "title":"Qual é seu Nen ?",
+    "questions":[
+        {
+            "id": 1,
+            "question": "Qual dessas características melhor representa você?",
+            "options": [
+              { "id": 1, "name": "Força", "alias": "A" },
+              { "id": 2, "name": "Concentração", "alias": "B" },
+              { "id": 3, "name": "Explosão", "alias": "C" },
+              { "id": 4, "name": "Calma", "alias": "D" },
+              { "id": 5, "name": "Mente", "alias": "E" }
+            ]
+        },
+          {
+            "id": 2,
+            "question": "Se você fosse escolher uma habilidade, qual delas você preferiria?",
+            "options": [
+              { "id": 1, "name": "Reforço", "alias": "A" },
+              { "id": 2, "name": "Transformação", "alias": "B" },
+              { "id": 3, "name": "Materialização", "alias": "C" },
+              { "id": 4, "name": "Especialização", "alias": "D" },
+              { "id": 5, "name": "Manipulação", "alias": "E" }
+            ]
+          },
+          {
+            "id": 3,
+            "question": "Se você pudesse ter uma superpotência, qual das seguintes você escolheria?",
+            "options": [
+              { "id": 1, "name": "Força", "alias": "A" },
+              { "id": 2, "name": "Concentração", "alias": "B" },
+              { "id": 3, "name": "Explosão", "alias": "C" },
+              { "id": 4, "name": "Calma", "alias": "D" },
+              { "id": 5, "name": "Mente", "alias": "E" }
+            ]
+          },
+          {
+            "id": 4,
+            "question": "Qual dessas características descreve melhor sua personalidade?",
+            "options": [
+              { "id": 1, "name": "Força", "alias": "A" },
+              { "id": 2, "name": "Concentração", "alias": "B" },
+              { "id": 3, "name": "Explosão", "alias": "C" },
+              { "id": 4, "name": "Calma", "alias": "D" },
+              { "id": 5, "name": "Mente", "alias": "E" }
+            ]
+          },
+          {
+            "id": 5,
+            "question": "Qual habilidade você acredita que seria mais útil em situações de pressão?",
+            "options": [
+              { "id": 1, "name": "Reforço", "alias": "A" },
+              { "id": 2, "name": "Transformação", "alias": "B" },
+              { "id": 3, "name": "Materialização", "alias": "C" },
+              { "id": 4, "name": "Especialização", "alias": "D" },
+              { "id": 5, "name": "Manipulação", "alias": "E" }
+            ]
+          },
+          {
+            "id": 6,
+            "question": "Se você pudesse aprimorar uma habilidade, qual delas você escolheria?",
+            "options": [
+              { "id": 1, "name": "Força", "alias": "A" },
+              { "id": 2, "name": "Concentração", "alias": "B" },
+              { "id": 3, "name": "Explosão", "alias": "C" },
+              { "id": 4, "name": "Calma", "alias": "D" },
+              { "id": 5, "name": "Mente", "alias": "E" }
+            ]
+          },
+          {
+            "id": 7,
+            "question": "Qual dessas características é mais importante para você?",
+            "options": [
+              { "id": 1, "name": "Força", "alias": "A" },
+              { "id": 2, "name": "Concentração", "alias": "B" },
+              { "id": 3, "name": "Explosão", "alias": "C" },
+              { "id": 4, "name": "Calma", "alias": "D" },
+              { "id": 5, "name": "Mente", "alias": "E" }
+            ]
+          },
+          {
+            "id": 8,
+            "question": "Se você tivesse que escolher uma habilidade para ajudar os outros, qual delas você escolheria?",
+            "options": [
+              { "id": 1, "name": "Reforço", "alias": "A" },
+              { "id": 2, "name": "Transformação", "alias": "B" },
+              { "id": 3, "name": "Materialização", "alias": "C" },
+              { "id": 4, "name": "Especialização", "alias": "D" },
+              { "id": 5, "name": "Manipulação", "alias": "E" }
+            ]
+          },
+          {
+            "id": 9,
+            "question": "Se você fosse um super-herói, qual destas habilidades você gostaria de ter?",
+            "options": [
+              { "id": 1, "name": "Força", "alias": "A" },
+              { "id": 2, "name": "Concentração", "alias": "B" },
+              { "id": 3, "name": "Explosão", "alias": "C" },
+              { "id": 4, "name": "Calma", "alias": "D" },
+              { "id": 5, "name": "Mente", "alias": "E" }
+            ]
+          }   
+    ],
+    "results":{
+      "A": "Você muito provavelmente seria um nen de Reforço",
+      "B": "Você muito provavelmente seria um nen de transformação",
+      "C": "Você muito provavelmente seria um nen de Materialização",
+      "D": "Você muito provavelmente seria um nen de Especialização",
+      "E": "Você muito provavelmente seria um nen de Manipulação"
+    }
+  }
